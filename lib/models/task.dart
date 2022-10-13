@@ -1,5 +1,5 @@
 class Task {
-  final String id;
+  final int? id;
   final String name;
   final DateTime startTime;
   final DateTime endTime;
